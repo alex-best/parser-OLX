@@ -1,0 +1,8 @@
+{
+    "name": "stil/xpath-selector",
+    "autoload": {
+        "psr-4": {
+            "XPathSelector\\": "src/"
+        }
+    }
+}
